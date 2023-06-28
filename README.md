@@ -24,13 +24,13 @@
 ___
 
 **Ответ:**
-сканирую nmap на уязвимости ip Metasploitable 192.168.1.11
+сканирую nmap на уязвимости ip Metasploitable 192.168.1.10
 
 
-ссылки https://vulners.com/ либо  https://www.exploit-db.com/ видно на фото 
+ 
 
 
-![]()
+![](https://github.com/VolkovMixail/13.1/blob/main/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.png)
 
 
 и ссылки 
